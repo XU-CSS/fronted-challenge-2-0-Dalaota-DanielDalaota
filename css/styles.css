@@ -208,3 +208,17 @@ body {
   color: var(--muted);
   font-size: 14px;
 }
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 20px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 20px;
+}
+
+
